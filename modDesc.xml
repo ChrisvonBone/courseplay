@@ -15,7 +15,7 @@
 		<ct>課程玩法 SIX</ct>
 		<cz>CoursePlay SIX</cz>
 		<nl>CoursePlay SIX</nl>
-		<hu>CoursePlay SIX - A Vezetősegéd</hu>
+		<hu>CoursePlay SIX</hu>
 		<jp>コースプレイ SIX</jp>
 		<kr>코스 플레이 SIX</kr>
 		<pt>CoursePlay SIX</pt>
@@ -80,6 +80,13 @@ Courseplay non sostituisce il sistema di gioco in gioco, ma crea un nuovo lavora
         <nl>
 <![CDATA[Courseplay is een modificatie voor Farming Simulator 19. Het geeft je de mogelijkheid om veel verschillende voertuigen autonoom en automatisch te laten rond rijden, veldwerk uit te voeren, dorsen & hakselen, granen en goederen te verkopen aan verkooppunten, een bunker of trailer met een shovel te vullen, niveleren en aanrijden van kuilvoer en nog veel meer...]]>
 		</nl>
+		<hu>
+<![CDATA[A Courseplay segítséget nyújthat a gazdaság minden táján, segíthet a rendszeres terepmunkában, a kombájn kirakásában, a betakarítás eladásában vagy éppen a silóban történő elhelyezésben. Segítségre van szüksége egy bunker feltöltésekor? Kérjen Courseplay-t!
+Rengeteg munkás vezethet a farmján, és automatikusan segít. A Courseplay betölthet egy bunkert vagy egy utánfutót egy lapáttal, szintezhet és tömörítheti a szilázst, és még sok minden más ...
+Készítsen saját teljesen automatikus farmot, amely tökéletesen illeszkedik játékstílusához!
+
+A Courseplay nem helyettesíti a játékban dolgozók rendszerét, hanem egy új AI dolgozót készít, amely együtt tud futni a szokásos mezőgazdasági munkásokkal.]]>
+		</hu>
 	</description>
 
 	<multiplayer supported="true" />
